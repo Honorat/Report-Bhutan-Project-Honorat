@@ -1,0 +1,24 @@
+\select@language {french}
+\contentsline {section}{Acknowledgment}{2}{section*.2}
+\contentsline {section}{Abstract}{2}{section*.3}
+\contentsline {section}{\numberline {1}Background Project}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}NTNU}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Project}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Bhutan "the last Paradise on earth"}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}The Team}{3}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Composition}{3}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Tasks}{3}{subsubsection.1.4.2}
+\contentsline {section}{\numberline {2}Methodology}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Specification}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Power source}{3}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Insolation data analysis and projections}{3}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Data Acquisition}{3}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}Direct insolation data}{3}{subsubsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.5}Temperature data analysis and projections}{3}{subsubsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.6}Loads profile}{3}{subsubsection.2.1.6}
+\contentsline {subsection}{\numberline {2.2}State design}{3}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Generator power}{3}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Outage voltage}{3}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Load}{3}{subsubsection.2.2.3}
+\contentsline {subsection}{\numberline {2.3}State design}{3}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}GitHub}{3}{subsubsection.2.3.1}
